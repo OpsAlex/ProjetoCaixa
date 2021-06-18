@@ -1,0 +1,17 @@
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\SistemCaixa.csprojAssemblyReference.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\SistemCaixa.csproj.ResolveComReference.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\SistemCaixa.csproj.GenerateResource.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\SistemCaixa.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\alexb\Desktop\Projetos C#\ProjetoSistemCaixa\PlayerUI\obj\Debug\PlayerUI.pdb
